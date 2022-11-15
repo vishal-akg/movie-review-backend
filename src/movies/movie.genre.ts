@@ -1,0 +1,16 @@
+export enum MovieGenre {
+  Fictional = 'fictional',
+  History = 'history',
+  Horror = 'horror',
+  Music = 'music',
+  Musical = 'musical',
+  Mystry = 'mystry',
+  News = 'news',
+  Romance = 'romance',
+  SciFi = 'sci-fi',
+  Superhero = 'superhero',
+  Sport = 'sport',
+  TalkShow = 'talk-show',
+  Thriller = 'thriller',
+  War = 'war',
+}
